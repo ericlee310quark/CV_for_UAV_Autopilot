@@ -1,0 +1,3 @@
+#lab12 & Final
+---
+ We focused on two Visual Localization algorithms: COLMAP and ORB-SLAM. After realizing the detail of the two algorithms, we did some experiments on different scenarios, tried to analyze the performance and compare them with each other hrough the knowledge of Linear Algebra. We also used matplotlib library to assist our analysis and visualize the result by the track animation. In the end, we reviewed the errors that occurred and projected some advice about how to use these algorithms in a better way.
