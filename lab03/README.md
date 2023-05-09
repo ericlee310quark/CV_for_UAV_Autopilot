@@ -11,8 +11,8 @@
 ```mermaid
 flowchart TD
     A[Background subtrction]-->B[Set Threshold];
-    B---->C[Connected component];
-    C---->D[Label the foreground];
+    B-->C[Connected component];
+    C-->D[Label the foreground];
 ```
 
 ## 2. Label the human in the video
