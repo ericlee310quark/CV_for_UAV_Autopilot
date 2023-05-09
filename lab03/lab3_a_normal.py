@@ -1,7 +1,7 @@
 import os.path as path
 import numpy as np
 import cv2
-
+#
 def equal(n, parent):
     i = int(n)
     while(parent[i]!=0):
