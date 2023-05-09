@@ -9,6 +9,9 @@
 ```
 - HE on HSV field
     ![HE_HSV](./pic/HE_HSV_img.jpg)
+```
+%python lab1_b.py
+```
 
 ## 2. Otsu thereshould
 - Before
