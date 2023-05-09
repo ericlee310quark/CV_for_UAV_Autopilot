@@ -8,12 +8,11 @@
 %python lab3.py
 ```
 
-```
-mermaid
-graph TD;
-Background subtrction-->Set Threshold;
-Set Threshold-->Connected component;
-Connected component-->Label the foreground;
+```mermaid
+flowchart TD
+    A[Background subtrction]-->B[Set Threshold];
+    B---->C[Connected component];
+    C---->D[Label the foreground];
 ```
 
 ## 2. Label the human in the video
